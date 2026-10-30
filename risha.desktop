@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=محرك ريشة
+Name[en]=Risha Engine
+Comment=صغير، سريع، حر في الإبداع
+Exec=risha_editor
+Terminal=false
+Categories=Development;Game;IDE;
+TryExec=risha_editor
